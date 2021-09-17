@@ -1,0 +1,30 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex d8e0f82..9908260 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1 +1,22 @@[m
+[31m-Texto HTML[m
+\ No newline at end of file[m
+[32m+[m[32m<!DOCTYPE <!DOCTYPE html>[m
+[32m+[m[32m<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->[m
+[32m+[m[32m<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->[m
+[32m+[m[32m<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->[m
+[32m+[m[32m<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->[m
+[32m+[m[32m<html>[m
+[32m+[m[32m    <head>[m
+[32m+[m[32m        <meta charset="utf-8">[m
+[32m+[m[32m        <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[32m+[m[32m        <title></title>[m
+[32m+[m[32m        <meta name="description" content="">[m
+[32m+[m[32m        <meta name="viewport" content="width=device-width, initial-scale=1">[m
+[32m+[m[32m        <link rel="stylesheet" href="">[m
+[32m+[m[32m    </head>[m
+[32m+[m[32m    <body>[m
+[32m+[m[32m        <!--[if lt IE 7]>[m
+[32m+[m[32m            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>[m
+[32m+[m[32m        <![endif]-->[m
+[32m+[m[41m        [m
+[32m+[m[32m        <script src="" async defer></script>[m
+[32m+[m[32m    </body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
